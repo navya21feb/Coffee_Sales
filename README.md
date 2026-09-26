@@ -135,8 +135,9 @@ This project transforms raw coffee order data into a fully interactive sales das
 - 🇺🇸 **United States** dominates sales, far outpacing the UK and Ireland
 - 🏆 **Allis Wilmore** is the top customer, followed by **Brenn Dundredge** and **Terri Farra**
 - 📈 **Liberica** shows strong seasonal spikes (notably in late 2020 and early 2021)
-- 🔥 **Medium roast** is the most popular roast type across all sizes
-- 💳 Loyalty card holders represent a significant portion of repeat purchases
+- 🔥 **Light roast** is the top-selling roast type at $17,354.47, followed closely by Medium and Dark.
+- 📦 **2.5 kg** packages account for **52.7%** of total sales — the dominant size across every roast type.
+- 💳 Loyalty card holders account for **47.9%** of all orders (479 out of 1,000), showing they are a major driver of repeat purchases
 
 ---
 
